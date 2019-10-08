@@ -1,7 +1,7 @@
 {
   "name": "use-memoized-callback",
-  "version": "0.0.2",
-  "description": "prevent unnecessary updates with callback memoziation",
+  "version": "0.0.3",
+  "description": "Prevent unnecessary updates with callback memoization",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel ./src --out-dir ./lib"
@@ -19,6 +19,13 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0"
   },
+  "keywords": [
+    "memoization",
+    "use-callback",
+    "performance",
+    "react-hook",
+    "react"
+  ],
   "author": "Saman Mohamadi (mohamadi.saman@gmail.com)",
   "license": "ISC",
   "bugs": {
