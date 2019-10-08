@@ -1,0 +1,28 @@
+{
+  "name": "use-memoized-callback",
+  "version": "0.0.2",
+  "description": "prevent unnecessary updates with callback memoziation",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel ./src --out-dir ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanmohamadi/use-memoized-callback.git"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "author": "Saman Mohamadi (mohamadi.saman@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanmohamadi/use-memoized-callback/issues"
+  },
+  "homepage": "https://github.com/samanmohamadi/use-memoized-callback#readme"
+}
