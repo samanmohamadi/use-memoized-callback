@@ -1,4 +1,4 @@
-# useDebouncedEffect react hook
+# useMemoizedCallback react hook
 
 Install it with yarn:
 
@@ -12,7 +12,7 @@ or with npm:
 npm i use-memoized-callback  --save
 ```
 
-*For more information about callback memoization read this [article](https://medium.com/@samanmhd/boost-performance-of-functional-react-components-with-memoized-callbacks-441343a237b7).
+**For more information about callback memoization read this [article](https://medium.com/@samanmhd/boost-performance-of-functional-react-components-with-memoized-callbacks-441343a237b7).*
 
 # Example
 
